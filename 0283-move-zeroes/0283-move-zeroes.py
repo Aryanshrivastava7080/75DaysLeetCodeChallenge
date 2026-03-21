@@ -1,11 +1,11 @@
 class Solution:
     def moveZeroes(self, nums: List[int]) -> None:
-        left = 0
+        lft = 0
 
-        for right in range(len(nums)):
-            if nums[right] != 0:
-                nums[right], nums[left] = nums[left], nums[right]
-                left += 1
+        for rght in range(len(nums)):
+            if nums[rght] != 0:
+                nums[rght], nums[lft] = nums[lft], nums[rght]
+                lft += 1
         
         return nums
            
