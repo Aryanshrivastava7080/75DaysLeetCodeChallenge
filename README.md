@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
+| [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
 |  |
 | ------- |
