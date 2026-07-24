@@ -11,6 +11,7 @@ public:
             x=x/10;
         }
         if(ans==target) return true;
+        else
         return false;
 
     }
