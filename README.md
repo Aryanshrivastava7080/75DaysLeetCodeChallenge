@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
+| [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## Stack
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
