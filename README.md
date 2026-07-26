@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0796-rotate-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2573-find-the-string-with-lcp](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2839-check-if-strings-can-be-made-equal-with-operations-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2839-check-if-strings-can-be-made-equal-with-operations-i) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0844-backspace-string-compare](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Design
 |  |
 | ------- |
