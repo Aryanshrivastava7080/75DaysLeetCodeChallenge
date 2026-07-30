@@ -6,7 +6,7 @@ public:
 
         while (low <= high) {
 
-            int mid = low + (high - low) / 2;
+            int mid = low + (high - low) / 2; 
 
             // Target mil gaya
             if (nums[mid] == target)
@@ -16,7 +16,7 @@ public:
             if (nums[low] <= nums[mid]) {
 
                 // Target left half ke andar hai
-                if (target >= nums[low] && target < nums[mid]) {
+                if (target >= nums[low] && target < nums[mid]) { 
                     high = mid - 1;
                 }
                 else {
