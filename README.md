@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
+| [0622-design-circular-queue](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0643-maximum-average-subarray-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0746-min-cost-climbing-stairs](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0746-min-cost-climbing-stairs) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
@@ -259,11 +260,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 ## String Matching
 |  |
 | ------- |
@@ -282,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0148-sort-list) |
+| [0622-design-circular-queue](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0622-design-circular-queue) |
 | [0876-middle-of-the-linked-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
