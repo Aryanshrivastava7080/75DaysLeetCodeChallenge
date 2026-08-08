@@ -246,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0225-implement-stack-using-queues) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0207-course-schedule](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0207-course-schedule) |
@@ -323,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
