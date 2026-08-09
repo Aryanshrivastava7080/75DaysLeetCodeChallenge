@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
+| [0096-unique-binary-search-trees](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0788-rotated-digits](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
+| [0096-unique-binary-search-trees](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -327,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0100-same-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -338,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0098-validate-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Topological Sort
