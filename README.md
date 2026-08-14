@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0048-rotate-image) |
 | [0096-unique-binary-search-trees](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
 | [0189-rotate-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0189-rotate-array) |
@@ -373,4 +374,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
