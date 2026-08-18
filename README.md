@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3427-sum-of-variable-length-subarrays) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Hash Table
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0560-subarray-sum-equals-k) |
 | [0997-find-the-town-judge](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0997-find-the-town-judge) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 ## Binary Search
