@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3427-sum-of-variable-length-subarrays](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3427-sum-of-variable-length-subarrays) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3548-equal-sum-grid-partition-ii) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Greedy
 |  |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0788-rotated-digits](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0788-rotated-digits) |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Heap (Priority Queue)
 |  |
@@ -370,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Merge Sort
 |  |
@@ -385,4 +389,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0029-divide-two-integers) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
