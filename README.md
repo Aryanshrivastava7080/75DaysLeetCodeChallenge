@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0076-minimum-window-substring) |
+| [0115-distinct-subsequences](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0316-remove-duplicate-letters](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0316-remove-duplicate-letters) |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0055-jump-game) |
 | [0096-unique-binary-search-trees](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0096-unique-binary-search-trees) |
+| [0115-distinct-subsequences](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0509-fibonacci-number](https://github.com/Aryanshrivastava7080/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
